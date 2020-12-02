@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\Pressure\build_win\CMakeFiles\4514f763a6677341e6342b9498211633\SYNC_RESOURCE-Pressure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\Pressure\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Projects\Pressure\build_win\CMakeFiles\SYNC_RESOURCE-Pressure" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{655D5C8F-CA03-38BC-BDA9-C0B280FEC78C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
