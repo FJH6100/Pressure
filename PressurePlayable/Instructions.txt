@@ -1,0 +1,2 @@
+Click on the screen when the white bar is between the two red bars. The degrees between the two red bars reduces every time the player taps at the right time. If the player taps
+when the white bar is outside the two red bars, the player loses. Tap the screen when the game ends to play again.
